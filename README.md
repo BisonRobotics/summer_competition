@@ -4,7 +4,9 @@ Remember to figure out what to do first before making anything
 # Objectives
 * Learn how to program robots
   * Not necessarily ROS
-  * Develop good workflow (use version control)
+  * Develop good workflow
+   * Use version control
+   * Design documentation
 
 # Ideas
 
