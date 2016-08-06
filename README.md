@@ -14,3 +14,10 @@ Remember to figure out what to do first before making anything
 * Race to waypoints
   * Similar to Sparkfun AVC
   * Potential publicity stunt
+* Have stages in competition instead of one huge final goal
+ * Keep people interested with achievements
+ * Drive in straight line
+ * Drive around wall
+ * Drive to waypoints
+* Simulation
+ * Keep things cheaper
