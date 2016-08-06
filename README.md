@@ -19,5 +19,5 @@ Remember to figure out what to do first before making anything
  * Drive in straight line
  * Drive around wall
  * Drive to waypoints
-* Simulation
+* Run competition in simulator
  * Keep things cheaper
